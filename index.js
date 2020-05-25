@@ -1,0 +1,1 @@
+alert("The website is in beta at the moment. So, registering and signing in functionality does not work properly. We are working to fix it as soon as possible. That said, if you are interested in our product and want to get in touch with us click the 'Contact us' button to email us. Sorry for any inconvenience!");

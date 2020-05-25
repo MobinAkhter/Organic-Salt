@@ -182,7 +182,12 @@ h4{
 .cta {
   margin-top: 0;
 }
-
+.product-link {
+  color: white;
+}
+.product-link:hover{
+  color: pink;
+}
 /* Footer */
 #footer {
   background-color: #fff;
